@@ -1,0 +1,19 @@
+{
+  "short_name": "Trump",
+  "name": "Donald Trump",
+  "icons": [
+    {
+      "src": "/assets/images/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "scope": "/"
+}
