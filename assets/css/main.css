@@ -5,3 +5,6 @@ main{
 	background-image: url('../images/main-background.jpg');
 	background-position: center;
 }
+.details{
+	margin-left: 15px;
+}
